@@ -1,4 +1,7 @@
 # daily-planner
+
+![ScreenShot](./assets/images/work%20day%20img.png)
+
 What was my motivation?
 
 GIVEN I am using a daily planner to create a schedule
@@ -15,14 +18,14 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Why did I change the html?
+Why did I code the daily planner?
 
-I changed the html because not all of the elements on the website resembled that of the mock-up or functioned properly. 
+I coded the daily planner to ensure the local storage worked correctly.
 
 What problem did I solve? 
 
-I solved the problem of making sure the active website resembled that of the mock-up as well as functioned properly. 
+I solved the problem of how to create a planner that can save to local storage.  
 
 What did I learn?
 
-I learned specific coding in order to change an html. 
+I learned specific coding in order change javascirpt to ensure local storage works correctly.
